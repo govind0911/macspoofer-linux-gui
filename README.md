@@ -39,7 +39,7 @@ This tool allows users to:
 
 Add your screenshot here:
 
-![Screenshot](screenshots/main.png)
+![Screenshot](https://ibb.co/KjrjfW2L)
 
 ---
 
